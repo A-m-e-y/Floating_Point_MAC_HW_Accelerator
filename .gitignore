@@ -1,0 +1,6 @@
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore simulation build folder
+sim_build/
+results.xml

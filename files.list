@@ -1,0 +1,15 @@
+../RTL/Normalizer.v
+../RTL/ZeroDetector_Group.v
+../RTL/EACAdder.v
+../RTL/R4Booth.v
+../RTL/ZeroDetector_Base.v
+../RTL/MAC32_top.v
+../RTL/Rounder.v
+../RTL/Compressor32.v
+../RTL/LeadingOneDetector_Top.v
+../RTL/PreNormalizer.v
+../RTL/SpecialCaseDetector.v
+../RTL/MSBIncrementer.v
+../RTL/Compressor42.v
+../RTL/FullAdder.v
+../RTL/WallaceTree.v
